@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/uda-idaz/idaz-chart.svg?branch=master)](https://travis-ci.org/uda-idaz/idaz-chart)
+
 # Componente Chart
 
 Implementación del componente Chart para el proyecto uda-idaz.
